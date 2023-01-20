@@ -1,6 +1,6 @@
 # Swift-Test
 
-My first Swift project
+My first Swift project.
 <hr>
 
 
